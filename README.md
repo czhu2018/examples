@@ -1,5 +1,5 @@
 
-## Spark Saturday July 27.
+## Spark Saturday July 27
 
 ### Jumpstart on Apache Spark 2.2 with Databricks
 
