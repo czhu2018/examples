@@ -7,7 +7,7 @@
 
 ### Morning
 * Get to know Databricks
-  * Notebook 0
+  * Notebook 00
 * Overview of Spark Fundamentals & Architecture
 * What’s New in Spark 2.x
 * Break
@@ -20,7 +20,7 @@ Lunch
 * Workshop Notebook 2
 * Break
 * Introduction to Structured Streaming Concepts
-* Workshop Notebook 3
+* Workshop Notebook 3-
 
 ### Instructions to Register for Free Databricks Community Edition
 
