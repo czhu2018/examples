@@ -20,7 +20,7 @@ Lunch
 * Workshop Notebook 2
 * Break
 * Introduction to Structured Streaming Concepts
-* Workshop Notebook 3
+* Workshop Notebook 3-
 
 ### Instructions to Register for Free Databricks Community Edition
 
